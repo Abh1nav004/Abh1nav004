@@ -35,3 +35,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abh1nav004&show_icons=true&locale=en" alt="abh1nav004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abh1nav004&" alt="abh1nav004" /></p>
+
+
+![snake gif](https://github.com/Abh1nav004/Abh1nav004/blob/output/github-contribution-grid-snake.gif)
+
+
+
+
+
